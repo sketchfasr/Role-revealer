@@ -20,15 +20,22 @@ For whatever reason, if you want to change the delay between each message being 
 3. Ctrl+F to open search bar
 4. Type "1.5f"
 5. Change the "1.5" to whatever delay you prefer, though keep in mind a delay lower than 1.5 may result in you being kicked[Do NOT remove the "f" after 1.5]
+6. Put your Among us folder directory path in .csproj where is says "[PUT YOUR AMONG US DIRECTORY PATH HERE]"
 
 A little fun fact,  this mod was originally supposed to be called "Omniscient" but then after completing the mod, i thought such a name doesnt suit a silly among us mod, so i changed the name to the current one instead(You can even see the remanings of Omniscient in the source code that i was too lazy to change)
 
 
 Credits:
 Ideator: Braincell number 12
+
 Main Developer: Braincell number 1
+
 Supporter: Braincell number 19
+
 Bug hunter: Braincell number 3
+
 Optimizer: Braincell number 14
+
 Honorable mention:
+
 README creator: Braincell number 17
