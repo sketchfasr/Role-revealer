@@ -2,6 +2,7 @@ Role revealer is a simple but great QoL mod which reveal the roles of selected p
 
 
 [Among us' anticheat being weird as always, you can send upto 6 messages at the same time instantly without a chat cooldown without worrying about getting kicked. So, if 6 or less players are selected from the list, from reveal all or reveal all imposters, the mod will detect it and automatically send them instantly because the anticheat will not catch it]
+
 Reveal all players's role: Automatically reveals the role of every player in the game in chat. [Example: KRUSH(Cyan) is Viper]. Waits 1.5 seconds between sending each message to avoid getting kicked
 Reveal all players' roles(0 seconds cooldown): Like the first one, but instantly sends all messages without a 1.5 second delay. Only use in +25 lobbies where there is no chat cooldown
 Reveal all imposter: Reveals every imposter in chat. 0 second delay
